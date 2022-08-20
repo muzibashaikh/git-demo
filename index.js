@@ -1,7 +1,4 @@
 console.log('hello world');
-console.log('hello world');
-console.log('hello world');
-console.log('hello world');
 
 function addNumbers(a, b) {
     const sum = a + b;
@@ -9,4 +6,4 @@ function addNumbers(a, b) {
     return sum;
 }
 
-addNumbers(5, 8);
+addNumbers(9, 0);
